@@ -32,7 +32,7 @@ function App() {
   return (
     <>
       <Container>
-        <h1>NCP 배포 서비스</h1>
+        <h1>NCP 배포 서비스(CI/CD 자동배포)</h1>
 
         <button onClick={getList}>목록 조회</button>
 
